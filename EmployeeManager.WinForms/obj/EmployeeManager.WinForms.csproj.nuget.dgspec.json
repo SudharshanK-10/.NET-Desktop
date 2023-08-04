@@ -1,0 +1,172 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.WinForms\\EmployeeManager.WinForms.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.Common\\EmployeeManager.Common.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.Common\\EmployeeManager.Common.csproj",
+        "projectName": "EmployeeManager.Common",
+        "projectPath": "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.Common\\EmployeeManager.Common.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.DataAccess\\EmployeeManager.DataAccess.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.DataAccess\\EmployeeManager.DataAccess.csproj",
+        "projectName": "EmployeeManager.DataAccess",
+        "projectPath": "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.DataAccess\\EmployeeManager.DataAccess.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.Common\\EmployeeManager.Common.csproj": {
+                "projectPath": "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.Common\\EmployeeManager.Common.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.ViewModel\\EmployeeManager.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.ViewModel\\EmployeeManager.ViewModel.csproj",
+        "projectName": "EmployeeManager.ViewModel",
+        "projectPath": "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.ViewModel\\EmployeeManager.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\Sudharshan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sudharshan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.Common\\EmployeeManager.Common.csproj": {
+                "projectPath": "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.Common\\EmployeeManager.Common.csproj"
+              },
+              "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.DataAccess\\EmployeeManager.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.DataAccess\\EmployeeManager.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.WinForms\\EmployeeManager.WinForms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.WinForms\\EmployeeManager.WinForms.csproj",
+        "projectName": "EmployeeManager.WinForms",
+        "projectPath": "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.WinForms\\EmployeeManager.WinForms.csproj",
+        "packagesPath": "C:\\Users\\Sudharshan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.WinForms\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sudharshan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.Common\\EmployeeManager.Common.csproj": {
+                "projectPath": "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.Common\\EmployeeManager.Common.csproj"
+              },
+              "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.DataAccess\\EmployeeManager.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.DataAccess\\EmployeeManager.DataAccess.csproj"
+              },
+              "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.ViewModel\\EmployeeManager.ViewModel.csproj": {
+                "projectPath": "C:\\Users\\Sudharshan\\Desktop\\CODE\\.NET Desktop\\EmployeeManager.ViewModel\\EmployeeManager.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

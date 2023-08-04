@@ -1,0 +1,11 @@
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\EmployeeManager.DataAccess\obj\Debug\EmployeeManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\EmployeeManager.DataAccess\obj\Debug\EmployeeManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\EmployeeManager.DataAccess\bin\Debug\EmployeeManager.DataAccess.dll.config
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\EmployeeManager.DataAccess\bin\Debug\EmployeeManager.DataAccess.dll
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\EmployeeManager.DataAccess\bin\Debug\EmployeeManager.DataAccess.pdb
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\EmployeeManager.DataAccess\bin\Debug\EmployeeManager.Common.dll
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\EmployeeManager.DataAccess\bin\Debug\EmployeeManager.Common.pdb
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\EmployeeManager.DataAccess\bin\Debug\EmployeeManager.Common.dll.config
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\EmployeeManager.DataAccess\obj\Debug\EmployeeManager.DataAccess.csproj.CopyComplete
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\EmployeeManager.DataAccess\obj\Debug\EmployeeManager.DataAccess.dll
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\EmployeeManager.DataAccess\obj\Debug\EmployeeManager.DataAccess.pdb

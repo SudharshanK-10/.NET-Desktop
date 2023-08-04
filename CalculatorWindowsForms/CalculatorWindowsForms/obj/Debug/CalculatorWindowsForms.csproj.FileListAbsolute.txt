@@ -1,0 +1,11 @@
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\CalculatorWindowsForms\CalculatorWindowsForms\bin\Debug\CalculatorWindowsForms.exe.config
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\CalculatorWindowsForms\CalculatorWindowsForms\bin\Debug\CalculatorWindowsForms.exe
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\CalculatorWindowsForms\CalculatorWindowsForms\bin\Debug\CalculatorWindowsForms.pdb
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.csproj.AssemblyReference.cache
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.Calculator.resources
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.Properties.Resources.resources
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.csproj.GenerateResource.cache
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.exe
+C:\Users\Sudharshan\Desktop\CODE\.NET Desktop\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.pdb
